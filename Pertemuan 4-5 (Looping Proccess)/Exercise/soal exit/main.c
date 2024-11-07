@@ -9,7 +9,7 @@ int main() {
         printf("\nKamu ada di anak tangga ke-%d\n", posisi);
 
     if(posisi >= 5) {
-        printf("Horee! Kamu sudah sampai di puncak!\n");
+        printf("Yasshhh! Kamu sudah sampai di puncak!\n");
         exit(0);  // Program selesai ketika sampai puncak
     }
 
